@@ -1,0 +1,20 @@
+{
+  "name": "cypress-testing-project",
+  "version": "1.0.0",
+  "description": "from udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "Guide Fari",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "8.5.0",
+    "prettier": "2.4.1"
+  }
+}
